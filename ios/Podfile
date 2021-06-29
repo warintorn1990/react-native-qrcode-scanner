@@ -12,6 +12,8 @@ target 'react_native_qrcode' do
     :hermes_enabled => false
   )
 
+
+
   target 'react_native_qrcodeTests' do
     inherit! :complete
     # Pods for testing
