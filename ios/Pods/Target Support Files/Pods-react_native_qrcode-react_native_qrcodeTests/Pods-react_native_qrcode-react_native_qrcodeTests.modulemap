@@ -1,0 +1,6 @@
+module Pods_react_native_qrcode_react_native_qrcodeTests {
+  umbrella header "Pods-react_native_qrcode-react_native_qrcodeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

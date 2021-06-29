@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_react_native_qrcode_react_native_qrcodeTests : NSObject
+@end
+@implementation PodsDummy_Pods_react_native_qrcode_react_native_qrcodeTests
+@end
